@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Search Assistant</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">What would You like to Search?</string>
+    <string name="button_send">Go!</string>
+    <string name="title_activity_main">Enter Keywords</string>
+    <string name="title_activity_display_message">Choose the Engine</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_web_search">Search Results</string>
+
+</resources>
